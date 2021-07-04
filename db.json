@@ -6,7 +6,7 @@
       "image": "https://pbs.twimg.com/profile_images/1788257892/Path__Docks_76_-_005_400x400.jpg",
       "localisation": "1 Boulevard Ferdinand de Lesseps, 76000 Rouen",
       "commentaires": {
-		  "message": "commentaire numéro 1 docks"
+		  "message": ["commentaire numéro 1 docks ?"]
 	  }
     },
 	{
@@ -24,7 +24,7 @@
       "image": "https://1.bp.blogspot.com/-JL74a1P53ms/X8ztxdRIM5I/AAAAAAACV1s/NUVDmhFzRtQHdNVQ6Pc7cSEV2x8ZDbnTwCLcBGAsYHQ/s800/ROUENOmnia%2B%25282019_01_30%2B20_40_37%2BUTC%2529.JPG",
       "localisation": "28 Rue de la République, 76000 Rouen",
       "commentaires": {
-		  "message": "commentaire numéro 1 omnia"
+		  "message": ["commentaire numéro 1 omnia", "commentaire 2 ?", "peut être même un troisième si ça fonctionne bien ?"]
 	  }
     }
   ]
