@@ -15,7 +15,7 @@
       "image": "https://media.abcsalles.com/images/1/salles/900h/452020/kinepolis-rouen-6.jpg",
       "localisation": "Place de la Verrerie, 76100 Rouen",
       "commentaires": {
-		  "message": "commentaire numéro 1 kinépolis"
+		  "commentaire": ["commentaire numéro 1 kinépolis", "commentaire 2 ?"]
 	  }
     },
 	{
