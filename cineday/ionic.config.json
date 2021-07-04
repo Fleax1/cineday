@@ -1,0 +1,7 @@
+{
+  "name": "cineday",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
