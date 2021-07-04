@@ -21,11 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="548d2089-817d-4312-9939-b1d7cf11083b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cineday/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cineday/config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cineday/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/cineday/src/app/app-routing.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cineday/src/app/tab1/tab1.page.html" beforeDir="false" afterPath="$PROJECT_DIR$/cineday/src/app/tab1/tab1.page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cineday/src/app/tab3/tab3.page.html" beforeDir="false" afterPath="$PROJECT_DIR$/cineday/src/app/tab3/tab3.page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cineday/src/app/tabs/tabs.page.html" beforeDir="false" afterPath="$PROJECT_DIR$/cineday/src/app/tabs/tabs.page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cineday/src/app/item-detail/item-detail.page.html" beforeDir="false" afterPath="$PROJECT_DIR$/cineday/src/app/item-detail/item-detail.page.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1625381429450</updated>
-      <workItem from="1625381433597" duration="9570000" />
+      <workItem from="1625381433597" duration="9708000" />
     </task>
     <servers />
   </component>

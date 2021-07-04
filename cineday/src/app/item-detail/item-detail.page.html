@@ -21,13 +21,13 @@
   </ion-card>
   <ion-card class="commentaires">
     <p>Commentaires (n):</p>
-<!--    <p>{{ (itemDetail | async).commentaires.commentaire }}</p>-->
-    <ion-item *ngFor="let commentaire of (itemDetail | async).commentaires">
-      <ion-label>
-        <p>{{commentaire.commentaire}}</p>
-        <br>
-      </ion-label>
-    </ion-item>
+    <p>{{ (itemDetail | async).commentaires.commentaire }}</p>
+<!--    <ion-item *ngFor="let commentaire of (itemDetail | async).commentaires">-->
+<!--      <ion-label>-->
+<!--        <p>{{commentaire.commentaire}}</p>-->
+<!--        <br>-->
+<!--      </ion-label>-->
+<!--    </ion-item>-->
 
   </ion-card>
 </ion-content>
