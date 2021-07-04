@@ -1,5 +1,5 @@
 <ion-content [fullscreen]="true">
-  <ion-card button *ngFor="let item of (itemList | async)">
+  <ion-card [routerLink]="['/item-detail', item.id]" button *ngFor="let item of (itemList | async)">
     <ion-img [src]="item.image"></ion-img>
     <ion-card-header>
       <ion-card-title>{{ item.name }}</ion-card-title>
